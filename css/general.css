@@ -9,6 +9,7 @@ svg {
   background: transparent;
 }
 a {
+  text-transform: uppercase;
   text-decoration: none;
   color: #fff;
 }
